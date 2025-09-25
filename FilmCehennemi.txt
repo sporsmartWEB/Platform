@@ -1,0 +1,53 @@
+======================================================================
+https://fullhdfilmcehennemi.vip/ SİTESİNE AİT PHP
+======================================================================
+<?php
+$Live = $_GET['ID'];
+$ch = curl_init($Live);
+curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_ENCODING, '');
+curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+'Accept: */*',
+'Accept-Encoding: gzip, deflate',
+'Accept-Language: tr-TR,tr;q=0.8',
+'Connection: keep-alive',
+'User-Agent: okhttp/4.12.0'
+));
+$site = curl_exec($ch);
+curl_close($ch);
+preg_match('#iframe width="(.*?)" height="(.*?)" src="(.*?)"#', $site, $icerik);
+$Url = $icerik[3];
+
+$ch1 = curl_init($Url);
+curl_setopt($ch1, CURLOPT_SSL_VERIFYHOST, false);
+curl_setopt($ch1, CURLOPT_SSL_VERIFYPEER, false);
+curl_setopt($ch1, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch1, CURLOPT_ENCODING, '');
+curl_setopt($ch1, CURLOPT_HTTPHEADER, array(
+'Accept: */*',
+'Accept-Encoding: gzip, deflate',
+'Accept-Language: tr-TR,tr;q=0.8',
+'Connection: keep-alive',
+'Host: vidmoly.net',
+'Referer: ' .$Url,
+'User-Agent: okhttp/4.12.0'
+));
+$site1 = curl_exec($ch1);
+curl_close($ch1);
+$site1 = str_replace('hls/,','',$site1);
+$site1 = str_replace(',.urlset/master.m3u8','/v.mp4',$site1);
+preg_match('#file:"(.*?)"#', $site1, $icerik);
+$Link = $icerik[1];
+header ("Location: $Link");
+?>
+
+======================================================================
+         LİNK KULLANIM ÖRNEKLERİ AŞAĞIDA SUNULMUŞTUR
+======================================================================
+Baba 1
+http://filmcehennemi.garaveli-de.workers.dev/?ID=https://fullhdfilmcehennemi.vip/baba-1/
+
+Geceler Bizim (Wir Sind Die Nacht)
+http://filmcehennemi.garaveli-de.workers.dev/?ID=https://fullhdfilmcehennemi.vip/geceler-bizim/2/
