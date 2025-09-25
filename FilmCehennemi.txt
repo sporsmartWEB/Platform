@@ -46,8 +46,6 @@ header ("Location: $Link");
 ======================================================================
          LİNK KULLANIM ÖRNEKLERİ AŞAĞIDA SUNULMUŞTUR
 ======================================================================
-Baba 1
-http://filmcehennemi.garaveli-de.workers.dev/?ID=https://fullhdfilmcehennemi.vip/baba-1/
+http://filmcehennemi.garaveli-de.workers.dev/?ID=https://fullhdfilmcehennemi.vip/cilgin-cuma/2/
 
-Geceler Bizim (Wir Sind Die Nacht)
 http://filmcehennemi.garaveli-de.workers.dev/?ID=https://fullhdfilmcehennemi.vip/geceler-bizim/2/
