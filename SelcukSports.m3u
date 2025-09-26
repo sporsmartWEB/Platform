@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-name="beIN SPORTS 1" tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png" beIN SPORTS 1
+http://selcuksports.garaveli-de.workers.dev/?ID=bein-sports-1
+#EXTINF:-1 tvg-id="bein-sports-2" tvg-name="beIN SPORTS 2" tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD2.png" group-title="Spor",beIN SPORTS 2
+http://selcuksports.garaveli-de.workers.dev/?ID=bein-sports-2
+#EXTINF:-1 tvg-id="bein-sports-3" tvg-name="beIN SPORTS 3" tvg-logo="https://digiturkairtv.com/images/channels/beinsports3.png" group-title="Spor",beIN SPORTS 3
+http://selcuksports.garaveli-de.workers.dev/?ID=bein-sports-3
+#EXTINF:-1 tvg-id="bein-sports-4" tvg-name="beIN SPORTS 4" tvg-logo="https://digiturkairtv.com/images/channels/beinsports4.png" group-title="Spor",beIN SPORTS 4
+http://selcuksports.garaveli-de.workers.dev/?ID=bein-sports-4
+#EXTINF:-1 tvg-id="s-sport" tvg-name="S Sport" tvg-logo="https://play-lh.googleusercontent.com/5TytvjVZq2kofec1CS-Kd3NEI1pF2Y9UKTmCmSv96zIpt4vyE9bBc1SOIK481VeFkAg" group-title="Spor",S Sport
+http://selcuksports.garaveli-de.workers.dev/?ID=s-sport
+#EXTINF:-1 tvg-id="s-sport-2" tvg-name="S Sport 2" tvg-logo="https://play-lh.googleusercontent.com/5TytvjVZq2kofec1CS-Kd3NEI1pF2Y9UKTmCmSv96zIpt4vyE9bBc1SOIK481VeFkAg" group-title="Spor",S Sport 2
+http://selcuksports.garaveli-de.workers.dev/?ID=s-sport-2
+#EXTINF:-1 tvg-id="tivibu-spor-1" tvg-name="TivibuSPOR 1" tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" group-title="Spor",TivibuSPOR 1
+http://selcuksports.garaveli-de.workers.dev/?ID=tivibu-spor-1
+#EXTINF:-1 tvg-id="tivibu-spor-2" tvg-name="TivibuSPOR 2" tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839013.png" group-title="Spor",TivibuSPOR 2
+http://selcuksports.garaveli-de.workers.dev/?ID=tivibu-spor-2
+#EXTINF:-1 tvg-id="tivibu-spor-3" tvg-name="TivibuSPOR 3" tvg-logo="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801837598.png" group-title="Spor",TivibuSPOR 3
+http://selcuksports.garaveli-de.workers.dev/?ID=tivibu-spor-3
+#EXTINF:-1 tvg-id="trt-spor" tvg-name="TRT Spor" tvg-logo="https://digiturkairtv.com/images/channels/TRT_Spor_HD_kurumsal_logo@3x.png" group-title="Spor",TRT Spor
+http://selcuksports.garaveli-de.workers.dev/?ID=trt-spor
+#EXTINF:-1 tvg-id="trt-yildiz" tvg-name="TRT Spor 2" tvg-logo="https://digiturkairtv.com/images/channels/945501596ea76b2@3x.png" group-title="Spor",TRT Spor 2
+http://selcuksports.garaveli-de.workers.dev/?ID=trt-yildiz
+#EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1" tvg-logo="https://digiturkairtv.com/images/channels/trt1_250x150@3x.png" group-title="Spor",TRT 1
+http://selcuksports.garaveli-de.workers.dev/?ID=trt1
+#EXTINF:-1 tvg-id="aspor" tvg-name="aSPOR" tvg-logo="https://digiturkairtv.com/images/channels/A_Spor_Hd@3x.png" group-title="Spor",aSPOR
+http://selcuksports.garaveli-de.workers.dev/?ID=aspor
